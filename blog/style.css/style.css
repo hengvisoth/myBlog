@@ -106,6 +106,13 @@ header .navbar .navbar-nav .nav-link:hover::after{
     font-weight: bold;
 }
 .custom{
+    align-items: center;
+    display:flex;
+    justify-content: center;
     height: 30%;
-    width: 80%;
+    width: 100%;
+}
+.sizing{
+  height: 25%;
+  width: 80;
 }
